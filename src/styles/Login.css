@@ -1,0 +1,23 @@
+.body{
+    background-image: url('assets/images.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 100vh;
+}
+.container{
+    background-color: aliceblue;
+}
+.sub-div{
+    position: absolute;
+    right: 5%;
+    bottom: 10%;
+}
+.image{
+    /* margin-left: 79.4pc; */
+    /* margin-top: 19pc; */
+    border-radius: 50px;
+    position: relative;
+    top: 20.5pc;
+    left: 79.5pc;
+}
